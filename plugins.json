@@ -22,7 +22,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/master/.github/logo/faviconFsTv.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "fileSize": 9787,
+    "fileSize": 9800,
     "status": 1,
     "language": "en",
     "authors": [
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "FsTv",
     "description": "Watch live sport on tv with full HD streaming videos for football, tennis, basketball games world-wide and more. Get live scores, results, highlights on Fstv",
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FsTv.cs3",
