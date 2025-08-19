@@ -8,6 +8,12 @@ Uygulamanın kurulu olduğu cihazda alttaki logoya tıklayıp kurulumu gerçekle
 
 [<img alt="Cs-Karma logo" width="200px" src="https://i.imgur.com/7Wk9P2C.png"/>](https://kraptor123.github.io/redirect/?r=cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/repo.json)
 
+
+<h2 align="center">
+<br>
+  <a href="https://www.patreon.com/kraptorcs">Eklentilerin şifrelerini öğrenmek için tıklayın</a>
+</h2>
+
 # `Geliştiriciler`
 
 <table>
