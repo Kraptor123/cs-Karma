@@ -79,7 +79,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "fileSize": 42685,
+    "fileSize": 42658,
     "status": 1,
     "language": "un",
     "authors": [
@@ -88,7 +88,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "Streamed",
     "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
